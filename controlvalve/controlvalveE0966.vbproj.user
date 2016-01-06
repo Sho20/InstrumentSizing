@@ -1,0 +1,18 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>D:\NORMALcontrolvalve\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>
+    </InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>zh-TW</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+  </PropertyGroup>
+</Project>
